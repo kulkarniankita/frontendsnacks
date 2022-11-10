@@ -12,6 +12,8 @@ Frontend Snacks is a Frontend Newsletter you'll love. Get FREE weekly snacks.
 
 All this to help you grow as a developer!
 
+You can sign up here: https://frontendsnacks.dev/
+
 ## Delivered fresh in your inbox weekly
 
 This repo stores all the snippets related to https://frontendsnacks.dev/
