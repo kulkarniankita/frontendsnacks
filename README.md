@@ -1,5 +1,9 @@
 # Frontend Snacks
 
+<a href="https://frontendsnacks.dev/" target="_blank">
+  <img src="/og-default.png" width="1100" height="550" />
+</a>
+
 Frontend Snacks is a Frontend Newsletter you'll love. Get FREE weekly snacks.
 
 - A code snippet to teach complex topics visually
