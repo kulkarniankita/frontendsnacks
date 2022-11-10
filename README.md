@@ -1,7 +1,7 @@
 # Frontend Snacks
 
 <a href="https://frontendsnacks.dev/?utm_source=github&utm_medium=frontendsnacks-repo" target="_blank">
-  <img src="/og-default.png" width="1100" height="500" />
+  <img src="https://frontendsnacks.dev/images/og-default.png" width="800" height="400" />
 </a>
 
 Frontend Snacks is a Frontend Newsletter you'll love. Get FREE weekly snacks.
