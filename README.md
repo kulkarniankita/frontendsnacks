@@ -4,8 +4,9 @@
   <img src="https://frontendsnacks.dev/images/og-default.png" width="800" height="400" />
 </a>
 
-Frontend Snacks is a Frontend Newsletter you'll love. Get FREE weekly snacks.
+Frontend Snacks is a Frontend Newsletter you'll love. 
 
+Get FREE weekly snacks.
 - A code snippet to teach complex topics visually
 - Latest Frontend gossip/news
 - A food/snack for thought
