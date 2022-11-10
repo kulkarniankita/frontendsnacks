@@ -1,2 +1,13 @@
-# frontendsnacks
-A repo to store snippets related to https://frontendsnacks.dev/
+# Frontend Snacks
+
+Frontend Snacks is a Frontend Newsletter you'll love. Get FREE weekly snacks.
+
+- A code snippet to teach complex topics visually
+- Latest Frontend gossip/news
+- A food/snack for thought
+
+All this to help you grow as a developer!
+
+## Delivered fresh in your inbox weekly
+
+This repo stores all the snippets related to https://frontendsnacks.dev/
